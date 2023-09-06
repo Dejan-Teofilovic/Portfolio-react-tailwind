@@ -13,17 +13,6 @@
 - Javascript
 - Tailwind
 
-## Live Demo
-
-[amitaroy.com](https://amitaroy.com/)
-
-## Author
-
-👤 **Amita Roy**
-
-- Github: [@Amita](https://github.com/Amita-Roy)
-- Twitter: [@Amita](https://twitter.com/AmitaRoy14)
-- Linkedin: [@Amita](https://www.linkedin.com/in/amita-roy/)
 
 ## Show your support
 
